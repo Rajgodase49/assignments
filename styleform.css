@@ -1,0 +1,37 @@
+body{
+    background-color: #d1dacd;
+    margin:10px;
+}
+p{
+    font-size: 30px;
+
+}
+form{
+    width: 100%;
+    background-color: antiquewhite;
+}
+form input{
+    width: 98%;
+}
+.tacbox {
+    display:inline-block;
+    /* padding: 1em; */
+    margin: 10px;
+    border: 3px solid #ddd;
+    background-color: #eee;
+
+    width: 98%;
+  }
+  
+  div input {
+    height: 1em;
+    width: 2em;
+    vertical-align: middle;
+    
+    border: 3px solid rgb(146, 126, 126);
+  }
+    .mech{
+        margin: 10px;
+        width: 98%;
+
+     }
